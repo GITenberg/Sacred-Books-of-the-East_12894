@@ -1,0 +1,75 @@
+_repo: Sacred-Books-of-the-East_12894
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Carlyle, Thomas
+    alias: Carlyle, T. (Thomas)
+    birthdate: 1795
+    deathdate: 1881
+    gutenberg_agent_id: '523'
+    url: http://www.gutenberg.org/2009/agents/523
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Carlyle
+  - agent_name: Aśvaghosha
+    aliases:
+    - Asvaghosha
+    - Aśvaghoṣa
+    gutenberg_agent_id: '35287'
+    url: http://www.gutenberg.org/2009/agents/35287
+    wikipedia: http://en.wikipedia.org/wiki/A%C5%9Bvagho%E1%B9%A3a
+  translators:
+  - agent_name: Sale, George
+    deathdate: 1736
+    gutenberg_agent_id: '2472'
+    url: http://www.gutenberg.org/2009/agents/2472
+    wikipedia: http://en.wikipedia.org/wiki/George_Sale
+  - agent_name: Beal, Samuel
+    birthdate: 1825
+    deathdate: 1889
+    gutenberg_agent_id: '35288'
+    url: http://www.gutenberg.org/2009/agents/35288
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Beal
+  - agent_name: Darmesteter, James
+    birthdate: 1849
+    deathdate: 1894
+    gutenberg_agent_id: '35286'
+    url: http://www.gutenberg.org/2009/agents/35286
+    wikipedia: http://en.wikipedia.org/wiki/James_Darmesteter
+  - agent_name: Müller, F. Max (Friedrich Max)
+    aliases:
+    - F. Max Müller
+    - Mueller, Friedrich Max
+    - Müller, Friedrich Max
+    - Müller, Max
+    - Muller, F. Max (Friedrich Max)
+    birthdate: 1823
+    deathdate: 1900
+    gutenberg_agent_id: '787'
+    url: http://www.gutenberg.org/2009/agents/787
+    wikipedia: http://en.wikipedia.org/wiki/Max_M%C3%BCller
+creator:
+  editor:
+    agent_name: Wilson, Epiphanius
+    birthdate: 1845
+    deathdate: 1916
+    gutenberg_agent_id: '4842'
+    url: http://www.gutenberg.org/2009/agents/4842
+description: ''
+edition_note: Revised Edition
+gutenberg_issued: '2004-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12894'
+language: en
+publication_note: '[S.l. :  s.n.],  1900'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oriental literature -- Translations into English'
+- !lcc 'PL'
+- GITenberg
+tableOfContents: Vedic Hymns -- Selections from the Zend-Avesta -- Dhammapada -- Upanishads
+  -- Mohammed and Mohammedanism, by Carlyle -- Selections from The Koran -- Life of
+  Buddha.
+title: Sacred Books of the East
+url: http://www.gutenberg.org/ebooks/12894
