@@ -1,5 +1,5 @@
 _repo: Sacred-Books-of-the-East_12894
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributors:
   - agent_name: Carlyle, Thomas
@@ -46,6 +46,9 @@ contributor:
     gutenberg_agent_id: '787'
     url: http://www.gutenberg.org/2009/agents/787
     wikipedia: http://en.wikipedia.org/wiki/Max_M%C3%BCller
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Wilson, Epiphanius
@@ -54,6 +57,8 @@ creator:
     gutenberg_agent_id: '4842'
     url: http://www.gutenberg.org/2009/agents/4842
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12894#Sacred-Books-of-the-East
 edition_note: Revised Edition
 gutenberg_issued: '2004-07-12'
 gutenberg_type: Text
